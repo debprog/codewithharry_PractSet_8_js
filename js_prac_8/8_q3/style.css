@@ -1,0 +1,11 @@
+.bulb{
+
+  width: 120px;
+  height: 120px;
+  border-radius:84px ;
+  border:2px solid black;
+}
+
+.lit{
+  background-color: yellow;
+}
